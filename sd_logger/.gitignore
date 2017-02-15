@@ -1,0 +1,11 @@
+# IDEA files
+**.idea
+
+# Python files
+*.pyc
+
+# MacOS files
+.DS_Store
+
+# virtualenv
+**sdloggerenv
